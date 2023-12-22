@@ -1,3 +1,3 @@
-# Digiboard
+# DigiCollab
 
 ## Real time Whiteboard
